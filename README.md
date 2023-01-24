@@ -10,8 +10,8 @@ Use a aplicação no [link](https://promobit-case-six.vercel.app/)
 
 ## Imagens do projeto
 ![promobit](https://user-images.githubusercontent.com/99834194/214404969-6c044ee4-989b-4af3-98d1-b8a35342714d.gif)
-![image](https://user-images.githubusercontent.com/99834194/214400291-b2647cef-1c3b-4953-9cf9-5b27794148b2.png)
 ![image](https://user-images.githubusercontent.com/99834194/214400371-6f425512-0f1e-48d2-91fb-bb4bd6b60430.png)
+![image](https://user-images.githubusercontent.com/99834194/214400291-b2647cef-1c3b-4953-9cf9-5b27794148b2.png)
 
 
 ## ✍🏻 Funcionalidades
